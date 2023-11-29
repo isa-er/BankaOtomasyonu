@@ -1,0 +1,15 @@
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe.config
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.pdb
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.Properties.Resources.resources
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.exe
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.pdb
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.frmMüsteriAnaSayfa.resources
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.frmParaYatirma.resources
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.frmHavale.resources
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.frmMusteriLogin.resources
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.frmHesapOzeti.resources
+C:\Users\z_jes\OneDrive\Masaüstü\NYP_DönemÖdevi\BankaOtomasyonu\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.FormParaCekme.resources
